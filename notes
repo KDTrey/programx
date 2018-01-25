@@ -1,0 +1,18 @@
+make lexicon for alphabet 
+	this will contain a list of keywords that will 
+	be in our program 
+	
+make lexicon for symbols
+	this iwll contain a list of symbols that will
+	be in our program 
+
+
+these two will be text files 
+	or maybe data structures 
+
+we can start by using these to test if something is syntaxically correct 
+
+we can develop this more by establishing a grammar 
+		sentence structures for using the keywords and symbols
+
+
